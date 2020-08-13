@@ -1,0 +1,24 @@
+.page{
+    height:600px;
+}
+.partie1{
+    background-color: #ff6600;
+    height:200px
+    
+}
+.partie2{
+    text-align: center;
+    font-size: 150px;
+    height:200px;
+
+}
+p{
+    margin-top: 0px;
+    margin-bottom: 0px;
+
+}
+.partie3{
+    background-color: #4c4c4c;
+    height:200px
+    
+}
